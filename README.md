@@ -1,3 +1,9 @@
-# UC Berkeley CS61A Study Notes and Practice
+# [UC Berkeley CS61A: Structure and Interpretation of Computer Programs](https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/syllabus)
 
-Personal study materials for UC Berkeley CS61A. This archive currently contains Python practice notebooks and small programs.
+This repo is my record of working through CS61A: my notes, homework, labs and projects, plus any supplementary resources I found useful for learning the material.
+
+## Layout
+
+```
+1 Python/
+```
